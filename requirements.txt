@@ -1,0 +1,11 @@
+# YouTube API
+google-api-python-client==2.111.0
+
+# Kafka
+kafka-python==2.0.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Data Processing
+pandas==2.1.4
