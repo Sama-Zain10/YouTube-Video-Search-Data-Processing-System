@@ -1,11 +1,11 @@
-# YouTube API
+# ── YouTube Data API ──────────────────────────────────────────────────────────
 google-api-python-client==2.111.0
 
-# Kafka
+# ── Kafka ─────────────────────────────────────────────────────────────────────
 kafka-python==2.0.2
 
-# Environment Variables
+# ── Environment / Config ──────────────────────────────────────────────────────
 python-dotenv==1.0.0
 
-# Data Processing
-pandas==2.1.4
+# ── Spark (install separately via pip or use the pyspark Docker image) ────────
+pyspark==3.5.0
